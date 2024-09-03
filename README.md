@@ -1,1 +1,1 @@
-# firedetection
+# Industrial Safety
